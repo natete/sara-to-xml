@@ -1,0 +1,13 @@
+{
+  "name": "sara-to-xml",
+  "version": "1.0.0",
+  "main": "main.js",
+  "author": "natete@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "csvtojson": "^1.1.4",
+    "js2xmlparser": "^3.0.0",
+    "xlsx": "^0.8.6",
+    "yargs": "^6.6.0"
+  }
+}
